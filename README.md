@@ -1,16 +1,14 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mahrus Rohisyam 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/mahrus-rohisyam?label=Follow&style=social)](https://github.com/mahrus-rohisyam)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
 
-Welcome to my GitHub profile! I'm a passionate developer from [Your Location]. I love working on a variety of projects, from web applications to mobile apps. Here are some things you might want to know about me:
+Welcome to my GitHub profile! I'm a passionate developer from Indonesia. I love working on a variety of projects, from web applications to mobile apps. Here are some things you might want to know about me:
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Learning Focus]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on Salt Academy
+- 🌱 I’m currently learning Flutter, GO and Best Fullstack Project Based
+- 💬 Ask me about React, Strapi, JS, TS
+- 😄 Pronouns: Mahrus
+- ⚡ Fun fact: I love nature
 
 ## 🚀 Skills and Tools
 
@@ -40,8 +38,8 @@ Here are some of my noteworthy projects:
 Connect with me on:
 
 - [GitHub](https://github.com/mahrus-rohisyam)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/mahrus-rohisyam)
+- [Instagram](https://instagram.com/mahrus.rohisyam)
 
 Feel free to reach out if you have any questions or just want to chat. I'm always open to interesting discussions and collaboration opportunities!
 
