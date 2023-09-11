@@ -21,14 +21,6 @@ Here are some of the technologies and tools I work with:
 ![Git](https://img.shields.io/badge/-Git-323330?style=flat-square&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323330?style=flat-square&logo=visual-studio-code)
 
-## 🌟 Projects
-
-Here are some of my noteworthy projects:
-
-- [Project 1](link-to-project1): Brief description.
-- [Project 2](link-to-project2): Brief description.
-- [Project 3](link-to-project3): Brief description.
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahrus-rohisyam&show_icons=true&theme=dark)
